@@ -14,3 +14,5 @@ oned_fem_example.ipynb   is an ipython notebook containing the above functions a
 * quadratic_elements1.png
 
 are in the same directory as  oned_fem_example.ipynb  or  oned_fem_example.html.
+
+The modules oned_fem.py and oned_fem_example.py contain all codes necessary for solving a specific problem. Other things in the repo have to do with understanding the functions therein and how they work.
